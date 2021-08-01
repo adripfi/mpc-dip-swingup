@@ -3,6 +3,7 @@ This project aims to control a double inverted pendulum using model predictive c
 For the problem at hand a direct MPC approach utilizing orthogonal collocation is used. Additionaly a cost function is proposed that includes a quadratic set-point tracking objective. The algorithm developed is documented in a Jupyter Notebook according to the task requirements.
 
 ### Results
+<img src="viz/result.gif" width="800" height="600"><br/>
 
 
 ### Installation  
